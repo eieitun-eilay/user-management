@@ -1,6 +1,6 @@
 {
   "name": "admin-dashboard",
-  "homepage": "https://eieitun-eilay.github.io/user-management",
+  "homepage": "https://eieitun-eilay.github.io/admin-dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
