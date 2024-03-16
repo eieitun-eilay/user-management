@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <ThemeProvider theme={CustomTheme}>
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
           <Routes>
             <Route path="/" exact element={<Home />}></Route>
             <Route
